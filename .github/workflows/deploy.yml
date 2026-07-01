@@ -32,7 +32,7 @@ jobs:
       # Detect base path and configure Pages
       - name: Configure Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
         with:
           enablement: true
 
