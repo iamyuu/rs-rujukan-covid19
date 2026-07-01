@@ -1,0 +1,16 @@
+{
+  "name": "rs-rujukan-covid19",
+  "private": true,
+  "version": "0.0.0",
+  "source": "src/index.pug",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@parcel/transformer-pug": "^2.16.4",
+    "@parcel/transformer-stylus": "^2.16.4",
+    "parcel": "^2.14.0"
+  }
+}
